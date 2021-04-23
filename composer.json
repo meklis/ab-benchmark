@@ -1,0 +1,18 @@
+{
+    "name": "meklis/ab-banchmark",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Max Boyar",
+            "email": "max.boyar.a@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Meklis\\AB\\": "src"
+        }
+    }
+}
